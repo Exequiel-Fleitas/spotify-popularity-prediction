@@ -12,8 +12,8 @@ The goal is to understand:
 
 ## Dataset
 The dataset consists of **4,831 tracks**, compiled from two sources:
-- High-popularity tracks
-- Low-popularity tracks
+- High popularity tracks
+- Low popularity tracks
 
 Each track includes:
 - **Audio features** (Spotify audio analysis)
@@ -98,7 +98,7 @@ These insights explain why tree-based models outperform linear regression.
 ---
 
 ## Conclusion
-Song popularity can be **partially predicted** using Spotify audio features alone. Production-related attributes such as loudness and energy play a dominant role, while musical key and mode contribute little. However, most popularity variance remains unexplained, highlighting the importance of non-audio factors such as artist recognition, playlist placement, marketing, and cultural trends.
+Song popularity can be **partially predicted** using Spotify audio features alone. Production related attributes such as loudness and energy play a dominant role, while musical key and mode contribute little. However, most popularity variance remains unexplained, highlighting the importance of non-audio factors such as artist recognition, playlist placement, marketing, and cultural trends.
 
 ---
 
@@ -121,5 +121,3 @@ Song popularity can be **partially predicted** using Spotify audio features alon
 
 ## Author
 Exequiel Fleitas  
-Data Science & Music  
-Southern Methodist University
